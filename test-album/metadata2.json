@@ -1,0 +1,51 @@
+{
+  "album_name": "Test album name",
+  "band_name": "Test band #1",
+  "release_date": "2024-3-30",
+  "record_label": "Test record label",
+  "genre": "hiphop/rap",
+  "genre_secondary": "French Pop",
+  "album_cover_file_name": "album cover.jpg",
+  "songs": [
+    {
+      "title": "test song 1",
+      "file_name": "song name 1.m4a",
+      "writers": [
+        {
+          "contribution": "",
+          "first_name": "",
+          "middle_name": "",
+          "last_name": ""
+        },
+        {
+          "contribution": "ml",
+          "first_name": "test first name 2",
+          "middle_name": "test middle name 2",
+          "last_name": "test last name 2"
+        }
+      ]
+    },
+    {
+      "title": "test song 2",
+      "file_name": "song name 2.m4a",
+      "writers": [
+        {
+          "contribution": "l",
+          "first_name": "test first name",
+          "middle_name": "test middle name",
+          "last_name": "test last name"
+        },
+        {
+          "contribution": "m",
+          "first_name": "test first name 3"
+        },
+        {
+          "contribution": "ml",
+          "first_name": "test first name 2",
+          "middle_name": "test middle name 2",
+          "last_name": "test last name 2"
+        }
+      ]
+    }
+  ]
+}

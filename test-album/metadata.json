@@ -1,0 +1,58 @@
+{
+  "album_name": "test-album",
+  "band_name": "",
+  "release_date": "2023-11-09",
+  "record_label": "",
+  "genre": "",
+  "album_cover_file_name": "album cover.jpg",
+  "songs": [
+    {
+      "title": "song name 1",
+      "file_name": "song name 1.m4a",
+      "writers": [
+        {
+          "contribution": "ml",
+          "first_name": "",
+          "middle_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "title": "song name 2",
+      "file_name": "song name 2.m4a",
+      "writers": [
+        {
+          "contribution": "ml",
+          "first_name": "",
+          "middle_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "title": "song name 3",
+      "file_name": "song name 3.m4a",
+      "writers": [
+        {
+          "contribution": "ml",
+          "first_name": "",
+          "middle_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "title": "song name 4",
+      "file_name": "song name 4.m4a",
+      "writers": [
+        {
+          "contribution": "ml",
+          "first_name": "",
+          "middle_name": "",
+          "last_name": ""
+        }
+      ]
+    }
+  ]
+}
