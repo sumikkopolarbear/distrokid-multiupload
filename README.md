@@ -6,11 +6,15 @@ git clone https://github.com/sumikkopolarbear/distrokid-multiupload.git
 ```
 
 ```
-cd distrokid-multiupload/multiupload
+cd distrokid-multiupload
 ```
 
 ```
 pip install -r requirements.txt
+```
+
+```
+cd multiupload
 ```
 
 ## Script Setup
