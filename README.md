@@ -6,7 +6,7 @@ git clone https://github.com/sumikkopolarbear/distrokid-multiupload.git
 ```
 
 ```
-cd distrokid-multiupload
+cd distrokid-multiupload/multiupload
 ```
 
 ```
